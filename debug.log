@@ -1,0 +1,3 @@
+[1010/073344.893:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1015/065210.107:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\savro\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\38cc6f52-fa3f-4bee-bdd5-79ee472766e3: The system cannot find the path specified. (0x3)
+[1015/065210.113:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
